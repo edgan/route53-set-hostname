@@ -1,0 +1,5 @@
+#!/bin/bash
+
+source /root/.aws_keys
+
+/usr/local/bin/route53-set-hostname.py --hostname $1

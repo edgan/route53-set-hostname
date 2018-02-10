@@ -1,0 +1,2 @@
+# Every 10 minutes
+0-59/10 * * * * root /usr/local/sbin/route53-set-hostname acme.com

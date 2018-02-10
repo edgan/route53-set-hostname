@@ -1,0 +1,4 @@
+# These are not real keys, and don't commit your own.
+# Replace with your AWS keys that have route53 write ability
+export AWS_ACCESS_KEY_ID=AKIAOEEUB228YURI21QW
+export AWS_SECRET_ACCESS_KEY=/18dGgODzQ01bolqR9c3ibps9y8nCdY2X0qfKY4s
